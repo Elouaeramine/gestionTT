@@ -1,0 +1,12 @@
+{
+   "status":"success",
+   "message":"Authentification reussite",
+   "data":{"role":"admin",
+      "prenom":"Hamdi",
+      "nom":"Jaouadi",
+      "status":"a",
+	  "mail": "hamdi.jaouadi@tunisietelecom.tn",
+	  "id":"1",
+	  "authenticated": true}
+   
+}

@@ -1,0 +1,10 @@
+{
+   "status":"success",
+   "message":"Authentification reussite",
+   "data":[
+      "role":"agent",
+      "prenom":"Hamdi",
+      "nom":"Jaouadi",
+      "status":"a"
+   ]
+}
